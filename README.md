@@ -1,3 +1,4 @@
 # jwt-auth-graphql
 
-jwt authentication example
+jwt authentication example + formik validation
+
